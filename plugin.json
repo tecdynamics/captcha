@@ -1,0 +1,9 @@
+{
+  "name": "Captcha",
+  "namespace": "Tec\\Captcha\\",
+  "provider": "Tec\\Captcha\\Providers\\CaptchaServiceProvider",
+  "author": "Tecdynamics LTD",
+  "url": "https://tecdynamics.co.uk",
+  "version": "5.8",
+  "description": "Captcha for higher security"
+}

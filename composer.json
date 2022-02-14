@@ -1,0 +1,8 @@
+{
+  "name": "tecdynamics/captcha",
+  "description": "Captcha for higher security",
+  "homepage": "https://tecdynamics.co.uk",
+  "require": {
+    "google/recaptcha": "^1.2"
+  }
+}
